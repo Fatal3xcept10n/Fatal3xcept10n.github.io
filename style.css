@@ -152,7 +152,7 @@ h6 {
 	max-width: 500px
 }
 .section-padding {
-	padding: 100px 0px;
+	padding: 155px 0px;
 }
 .section-title {
 	padding-bottom: 80px;
@@ -487,8 +487,8 @@ h6 {
 	border: none;
 	border-bottom: 1px solid #1c1c1c;
 	border-radius: 0;
-	padding: 10px 10px 10px 0;
-	margin-bottom: 20px;
+	padding: 600px 10px 10px 0;
+	margin-bottom: 10px;
 	font-size: 14px;
 	width:100%;
 }
